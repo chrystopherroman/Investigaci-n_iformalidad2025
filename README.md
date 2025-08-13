@@ -6,10 +6,9 @@ De forma descriptiva el objetivo de la investigación es hacer conciencia e info
 enfrenta en la actualidad ampliando la perspectiva y el poder de juicio de cada lector para aportar mejoras.
 ##  Contenido del repositorio
 - `investigacion.pdf` → Documento completo de la investigación.
-- `graficas/` → Carpeta con las gráficas propias creadas en Python.
+- `graficas/` → gráficas propias creadas en archivos ipynb python.
 - `encuesta/` → Encuesta anonima a pequeño sector de emprendedores en formato en formato CSV.
 - `Digrama de Gantt/` → Diagrama que muestra la distribución de tiempo que se realizo durante la investigación en Excel.
-- `bibliografia.md` → Lista de referencias en formato APA.
 ##  Metodología
 La investigación se realizó bajo un enfoque cuantitativo de tipo descriptivo, empleando datos porcentuales y representaciones gráficas para caracterizar la situación estudiada.  
 Se utilizaron fuentes oficiales y confiables, garantizando la veracidad y actualidad de la información.
